@@ -1,5 +1,3 @@
-
------
 -----
 ### <p align="center">Google hacking tools</p>
 
