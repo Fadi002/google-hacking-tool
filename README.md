@@ -6,7 +6,7 @@
 <img src="https://media.discordapp.net/attachments/960160330749734982/1010694145611943966/noice.png", width="500", height="500">
 </p>
 
-<br><br>d
+<br><br>
 <p align="center">
 <strong> Google hacking tools is very simple tool to generate keywords can help you to find informations about websites like : databases, log file, etc....
 </strong>
